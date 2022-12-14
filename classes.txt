@@ -1,3 +1,5 @@
 dog
 cat
 test
+good
+nice
